@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/hjk789/NXEnhanced/master/WebExtension/icon.png"></p>
 <h1 align="center">NX Enhanced</h1>
 <p align="center">Adds "quality-of-life" features to NextDNS website to make the experience of managing lists, domains, logs, etc. more practical. </p>
-<h3 align="center">⚠ This project is discontinued and won't receive more updates.</h6>
+<h3 align="center">⚠ It's a fork, no huge changes planned, just tiny ones to keep Google satisfied.</h6>
 
 ## Current features
 

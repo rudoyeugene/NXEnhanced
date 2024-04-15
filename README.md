@@ -114,12 +114,20 @@ If you don't have funds to donate, but still want to contribute, you can do so b
 - You can suggest changes, new features or fixes, either by opening issues or by doing pull requests. 
 - You can open or participate in issues and discussions, give feedback and rate this project.
 - Feel free to refer to NX Enhanced, just make sure to include a link to this project's repository homepage (https://github.com/hjk789/NXEnhanced). 
-- You can make a fork of this project, provided that: 1. You fork it inside GitHub, by clicking on the "Fork" button or the "Edit this file" button of this project's repository web page; and 2. You fork it in order to push changes to this project's repository with a pull request. If you don't fit in these conditions, don't fork it, "*Star*" it instead. Any contributed code is owned by the repository owner, [BLBC](https://github.com/hjk789). The credits for the contributed code goes to the contributor.
+- You can make a fork of this project, provided that: 1. You fork it inside GitHub, by clicking on the "Fork" button or
+  the "Edit this file" button of this project's repository web page; and 2. You fork it in order to push changes to this
+  project's repository with a pull request. If you don't fit in these conditions, don't fork it, "*Star*" it instead.
+  Any contributed code is owned by the repository owner, [Eugene Rudo](https://github.com/rudoyeugene). The credits for
+  the contributed code goes to the contributor.
 - You cannot do any other action not allowed in this license.  
 
-I, [BLBC](https://github.com/hjk789), have no association with NextDNS Inc., I'm just a user of their DNS service who needed the features NX Enhanced provides. NX Enhanced is a completely voluntary and unnoficial work. Neither I, nor NextDNS Inc., are responsible for any damage or leak, directly or indirectly related to the use or misuse of this software. The responsibility is completely on it's users. Use it at your own risk. There are no warranties, either implied or stated.
+I, [Eugene Rudo](https://github.com/rudoyeugene), have no association with NextDNS Inc., I'm just a user of their DNS
+service who needed the features NX Enhanced provides. NX Enhanced is a completely voluntary and unnoficial work. Neither
+I, nor NextDNS Inc., are responsible for any damage or leak, directly or indirectly related to the use or misuse of this
+software. The responsibility is completely on it's users. Use it at your own risk. There are no warranties, either
+implied or stated.
 
-Copyright (c) 2020+ BLBC ([hjk789](https://github.com/hjk789))
+Copyright (c) 2023+ [Eugene Rudo](https://github.com/rudoyeugene)
 
 ## Privacy policy
 
